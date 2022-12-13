@@ -1,35 +1,45 @@
 const catalog = [
    {
-      title: "Banana",
-      Price: 4.99,
+      title: "Feet",
+      Price: 49.99,
       category: "Fruit",
-      image: "test1.png",
+      image: "1.jpg",
    },
    {
-      title: "Kiwi",
-      Price: 5.99,
+      title: "Bird",
+      Price: 49.99,
       category: "Fruit",
-      image: "test2.png",
+      image: "2.jpg",
    },{
-      title: "Kiwi",
-      Price: 5.99,
+      title: "Coffee Beans",
+      Price: 59.99,
       category: "Fruit",
-      image: "test2.png",
+      image: "3.jpg",
    },{
-      title: "Kiwi",
-      Price: 5.99,
+      title: "Submerge",
+      Price: 36.99,
       category: "Fruit",
-      image: "test2.png",
+      image: "4.jpg",
    },{
-      title: "Kiwi",
-      Price: 5.99,
+      title: "Fog",
+      Price: 39.99,
       category: "Fruit",
-      image: "test2.png",
+      image: "5.jpg",
    },{
-      title: "Kiwi",
-      Price: 5.99,
+      title: "Autumn",
+      Price: 55.99,
       category: "Fruit",
-      image: "test2.png",
+      image: "6.jpg",
+   },{
+      title: "Sunset",
+      Price: 89.99,
+      category: "Fruit",
+      image: "7.jpg",
+   },{
+      title: "Green",
+      Price: 39.99,
+      category: "Fruit",
+      image: "8.jpg",
    },
 ];
 
